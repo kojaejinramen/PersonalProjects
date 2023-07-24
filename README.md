@@ -64,9 +64,10 @@ __Hello__ World
 ~~Hello~~ World
 
 # 이미지
-<img src="dinosaur-6579584.png" alt="배경사진" title="공룡"> 
+<img src="dinosaur-6579584.png" alt="공룡사진" title="공룡" width="200" height="150">
 
 # 인용문(BlockQuote)
 아래는 인용문입니다
 > 첫번째 인용문
+>> 인용문 안의 인용문
 
